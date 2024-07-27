@@ -1,0 +1,17 @@
+Sent at 2024-07-17 23:02:27: hii
+Received at 2024-07-17 23:02:27: hii
+Sent at 2024-07-17 23:02:31: heelo
+4-07-17 23:02:31: heelo
+Sent at 2024-07-17 23:02:36: yes
+Received at 2024-07-17 23:02:36: yes
+Sent at 2024-07-17 23:02:42: by
+Received at 2024-07-17 23:02:36: 2024-07-17 23:02:42: by
+Sent at 2024-07-17 23:03:45: & C:/Users/Krati/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Krati/Desktop/CLI_chatapp/receiver.py
+Sent at 2024-07-17 23:07:14: Hello
+Received at 2024-07-17 23:07:14: Hello
+Sent at 2024-07-17 23:07:18: Hii
+Received at 2024-07-17 23:07:14: 2024-07-17 23:07:18: Hii
+Sent at 2024-07-17 23:07:23: I am krati
+Received at 2024-07-17 23:07:23: I am krati
+Sent at 2024-07-17 23:07:27: Good
+Received at 2024-07-17 23:07:23: 2024-07-17 23:07:27: Good
